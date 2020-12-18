@@ -1,0 +1,21 @@
+E:\ITI\Back-end\do7a\Receptionist\Receptionist\bin\Debug\Receptionist.exe.config
+E:\ITI\Back-end\do7a\Receptionist\Receptionist\bin\Debug\Receptionist.exe
+E:\ITI\Back-end\do7a\Receptionist\Receptionist\bin\Debug\Receptionist.pdb
+E:\ITI\Back-end\do7a\Receptionist\Receptionist\obj\Debug\Receptionist.csproj.CoreCompileInputs.cache
+E:\ITI\Back-end\do7a\Receptionist\Receptionist\obj\Debug\Receptionist.exe
+E:\ITI\Back-end\do7a\Receptionist\Receptionist\obj\Debug\Receptionist.pdb
+E:\ITI\Back-end\do7a\Receptionist\Receptionist\obj\Debug\Receptionist.csprojAssemblyReference.cache
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.1\Receptionist\bin\Debug\Receptionist.exe.config
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.1\Receptionist\bin\Debug\Receptionist.exe
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.1\Receptionist\bin\Debug\Receptionist.pdb
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.1\Receptionist\obj\Debug\Receptionist.csprojAssemblyReference.cache
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.1\Receptionist\obj\Debug\Receptionist.csproj.CoreCompileInputs.cache
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.1\Receptionist\obj\Debug\Receptionist.exe
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.1\Receptionist\obj\Debug\Receptionist.pdb
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.2\Receptionist\obj\Debug\Receptionist.csprojAssemblyReference.cache
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.2\Receptionist\obj\Debug\Receptionist.csproj.CoreCompileInputs.cache
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.2\Receptionist\obj\Debug\Receptionist.exe
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.2\Receptionist\obj\Debug\Receptionist.pdb
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.2\Receptionist\bin\Debug\Receptionist.exe.config
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.2\Receptionist\bin\Debug\Receptionist.exe
+D:\BME\Third Semester\Develpoment of SW Applications\HW\Receptionist V1.2\Receptionist\bin\Debug\Receptionist.pdb
